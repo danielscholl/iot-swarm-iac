@@ -1,6 +1,6 @@
 # iot-swarm-iac
 
-A Docker Consumer Edition Swarm in Azure
+An IaaS Docker Swarm Consumer Edition
 
 __PreRequisites__
 
